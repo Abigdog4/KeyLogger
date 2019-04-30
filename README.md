@@ -1,7 +1,7 @@
 # KeyLogger 1.0
 
 ## **FIRST AND FOR MOST!**
-### I AM NOT RESPONSIBLE FOR YOUR ACTIONS!
+I AM NOT RESPONSIBLE FOR YOUR ACTIONS!
 
 - Supports Windows 10
 - Auto Execute At Startup
